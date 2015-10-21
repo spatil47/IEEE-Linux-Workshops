@@ -1,7 +1,9 @@
 #IEEE Linux Workshop
 
-We are creating and running a linux tutorial workshop for IEEE members who want to learn how to use and gain experience using linux. We are hoping that this will allow kids to start gaining the experience they will need to be successful in the workplace.
+We will be holding Linux workshops for IEEE members who wish to learn how to use the operating system and how to take advantage of its functionality.
+We are hoping our workshops will spark interest in attendees to start gaining workplace-relevant Linux skills and utilizing Linux in their projects and project development workflows.
 
-Checkout the LessonPlans.md to check out what we have planned so far, and if you have anything you want to add or change send me a pull request!
+Checkout the [Lesson Plans](LessonPlans.md) to see what we have planned so far.
+If you have anything you want to add or change, send me a pull request!
 
 Thank you!
